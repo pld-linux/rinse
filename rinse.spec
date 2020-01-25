@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	A utility designed to install a minimal RPM-based distribution within a local directory
 Name:		rinse
 Version:	3.0.2
